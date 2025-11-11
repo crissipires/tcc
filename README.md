@@ -44,6 +44,6 @@ Eles ficam no Google Drive e o notebook **lê diretamente de lá**.
 
 ---
 
-## ✅ 3) Montar o Google Drive no Colab
+## ✅ 3) Execução do código
 
 Ao abrir o notebook e clique em executar tudo.
