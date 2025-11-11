@@ -1,4 +1,5 @@
-# 📘 TCC — Análise de Sentimentos em Comentários de E-commerce
+# 📘 TCC — COMPARAÇÃO DE MÉTODOS DE PROCESSAMENTO DE LINGUAGEM NATURAL PARA ANÁLISE DE SENTIMENTO APLICADOS A FEEDBACKS DE E-COMMERCE
+
 
 Este projeto utiliza:
 - Um **notebook Google Colab** (`.ipynb`)
